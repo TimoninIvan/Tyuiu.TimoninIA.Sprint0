@@ -47,7 +47,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task6", "Task6", "{68E9FD17
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.TimoninIA.Sprint0.Task6.V0", "Tyuiu.TimoninIA.Sprint.Task6.V0\Tyuiu.TimoninIA.Sprint0.Task6.V0.csproj", "{17E9E078-1D80-41D3-920E-2A8E698B1104}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.TimoninIA.Sprint.Task6.V0.Lib", "Tyuiu.TimoninIA.Sprint.Task6.V0.Lib\Tyuiu.TimoninIA.Sprint.Task6.V0.Lib.csproj", "{BE1EA278-F3E3-4A42-8299-1472EABEFEEC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.TimoninIA.Sprint0.Task6.V0.Lib", "Tyuiu.TimoninIA.Sprint.Task6.V0.Lib\Tyuiu.TimoninIA.Sprint0.Task6.V0.Lib.csproj", "{BE1EA278-F3E3-4A42-8299-1472EABEFEEC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.TimoninIA.Sprint0.Task6.V0.Test", "Tyuiu.TimoninIA.Sprint0.Task6.V0.Test\Tyuiu.TimoninIA.Sprint0.Task6.V0.Test.csproj", "{0C82910C-10B6-45BE-BD4B-A678B47A46C5}"
 EndProject
